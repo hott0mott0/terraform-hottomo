@@ -10,6 +10,6 @@ terraform {
 
 
 provider "aws" {
-  region = "us-west-2" # Your region
+  region  = "us-west-2" # Your region
   profile = "hott0mott0_atlantis"
 }
